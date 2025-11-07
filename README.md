@@ -1,4 +1,4 @@
-# Hi, I'm Angad Chhikara 👋
+# Hi, I'm Angad Chhikara
 **Born in 2010 | Python & Java Developer | Learning through building projects**
 
 I enjoy creating programs that are fun, educational, and helpful.  

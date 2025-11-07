@@ -1,5 +1,5 @@
 # Hi, I'm Angad Chhikara
-**Born in 2010 | Python & Java Developer | Learning through building projects**
+**Born in 2010 | Python Developer | Learning through building projects | Newbie Java Developer**
 
 I enjoy creating programs that are fun, educational, and helpful.  
 Python found me in 2023 thanks to [CodeWithHarry](https://github.com/CodeWithHarry).  

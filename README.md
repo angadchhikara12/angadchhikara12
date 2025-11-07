@@ -17,7 +17,7 @@ My modular AI assistant. It uses APIs, libraries, and automation logic to perfor
 A Python project that demonstrates system-level commands safely.  
 **Skills:** Python, OS Commands, Scripting
 
-### 3. java_pre_built_library_system (Java) ⭐⭐⭐⭐
+### 3. [java_pre_built_library_system (Java)](https://github.com/angadchhikara12/java_pre_built_library_system) ⭐⭐⭐⭐
 A Java library system project built from scratch using object-oriented programming.  
 **Skills:** Java, OOP, File Handling
 

@@ -9,11 +9,11 @@ Here’s a showcase of my **public projects**:
 
 ## 🚀 Pinned Projects
 
-### 1. JARVIS_AI (Python) ⭐⭐⭐
+### 1. [JARVIS_AI (Python)](https://github.com/angadchhikara12/JARVIS_AI) ⭐⭐⭐
 My modular AI assistant. It uses APIs, libraries, and automation logic to perform tasks and respond to commands.  
 **Skills:** Python, APIs, Automation, Modular Programming
 
-### 2. computer-killer *(archived, Python)* ⭐⭐
+### 2. [computer-killer *(archived, Python)*](https://github.com/angadchhikara12/computer-killer) ⭐⭐
 A Python project that demonstrates system-level commands safely.  
 **Skills:** Python, OS Commands, Scripting
 

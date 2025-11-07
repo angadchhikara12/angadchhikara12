@@ -9,7 +9,8 @@ quotes = [
     ("Don’t wait. The time will never be just right.", "Napoleon Hill"),
     ("The only way to do great work is to love what you do.", "Steve Jobs"),
     ("Hard work beats talent when talent doesn’t work hard.", "Tim Notke"),
-    ("First, solve the problem. Then, write the code.", "John Johnson")
+    ("First, solve the problem. Then, write the code.", "John Johnson"),
+    ("The best way to predict the future is to create it.","Peter Drucker")
 ]
 
 # Pick a random quote

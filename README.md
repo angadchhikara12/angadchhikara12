@@ -42,8 +42,8 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ## 💡 ✨ Quote of the Day
 
-❝ "The placeholder quote will appear here." ❞  
-— Author
+❝ The best way to predict the future is to create it. ❞  
+— Peter Drucker
 
 ---
 

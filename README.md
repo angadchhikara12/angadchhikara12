@@ -40,6 +40,13 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ---
 
+## 💡 ✨ Quote of the Day
+
+❝ "The placeholder quote will appear here." ❞  
+— Author
+
+---
+
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

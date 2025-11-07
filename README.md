@@ -35,7 +35,8 @@ A Java library system project built from scratch using object-oriented programmi
 
 ## 📈 Skill Progression
 
-I started with simple CLI games, moved to small Python scripts, then explored system automation and AI assistants. I also created a full Java library system to strengthen my OOP and multi-language skills.
+I began knowing nothing about Python—just a curious kid watching YouTube tutorials.
+Today, I build cool projects and love messing around with Python to create cool and useful programs.
 
 ---
 

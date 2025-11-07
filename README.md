@@ -55,4 +55,4 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ---
 
-*“Goofy = Fun, Danger = Educational, Helpful = Fellow Dev Helpful”*
+*“Goofy = Fun, Danger = Educational, Helpful = Helpful for fellow developers”*

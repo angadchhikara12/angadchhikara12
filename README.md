@@ -42,8 +42,8 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ## 💡 ✨ Quote of the Day
 
-❝ The people who are crazy enough to think they can change the world are the ones who do. ❞  
-— Steve Jobs
+❝ Whether you think you can or think you can't, you're right. ❞  
+— Henry Ford
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

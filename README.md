@@ -42,8 +42,8 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ## 💡 ✨ Quote of the Day
 
-❝ First, solve the problem. Then, write the code. ❞  
-— John Johnson
+❝ Hard work beats talent when talent doesn’t work hard. ❞  
+— Tim Notke
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

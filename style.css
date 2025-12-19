@@ -1,1 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#banner{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), #003cff), url('./images/background.png');
+    height: 100vh;
+    background-position: center;
+    background-size:cover;
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#banner h2{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+#banner  .banner-text  .line{
+    height: 5px;
+    width: 250px;
+    background-color: #009688;
+    border-radius: 50px; 
+}
+
+#banner h4{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+#banner h4 a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 17px;
+}

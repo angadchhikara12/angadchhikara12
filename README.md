@@ -42,8 +42,8 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ## 💡 ✨ Quote of the Day
 
-❝ Hard work beats talent when talent doesn’t work hard. ❞  
-— Tim Notke
+❝ The people who are crazy enough to think they can change the world are the ones who do. ❞  
+— Steve Jobs
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

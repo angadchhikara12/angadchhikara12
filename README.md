@@ -42,7 +42,7 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ## 💡 ✨ Quote of the Day
 
-❝ The people who are crazy enough to think they can change the world are the ones who do. ❞  
+❝ The only way to do great work is to love what you do. ❞  
 — Steve Jobs
 ### 📫 Connect with Me
 

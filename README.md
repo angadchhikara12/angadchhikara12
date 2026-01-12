@@ -42,8 +42,8 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ## 💡 ✨ Quote of the Day
 
-❝ The best way to predict the future is to create it. ❞  
-— Peter Drucker
+❝ The only way to do great work is to love what you do. ❞  
+— Steve Jobs
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

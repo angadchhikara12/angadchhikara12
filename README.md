@@ -42,8 +42,8 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ## 💡 ✨ Quote of the Day
 
-❝ Don’t wait. The time will never be just right. ❞  
-— Napoleon Hill
+❝ The people who are crazy enough to think they can change the world are the ones who do. ❞  
+— Steve Jobs
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

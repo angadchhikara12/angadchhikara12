@@ -42,8 +42,8 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ## 💡 ✨ Quote of the Day
 
-❝ The people who are crazy enough to think they can change the world are the ones who do. ❞  
-— Steve Jobs
+❝ The best way to predict the future is to create it. ❞  
+— Peter Drucker
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

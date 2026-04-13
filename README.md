@@ -42,8 +42,8 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ## 💡 ✨ Quote of the Day
 
-❝ Don’t wait. The time will never be just right. ❞  
-— Napoleon Hill
+❝ First, solve the problem. Then, write the code. ❞  
+— John Johnson
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

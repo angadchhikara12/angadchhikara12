@@ -42,8 +42,8 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ## 💡 ✨ Quote of the Day
 
-❝ Whether you think you can or think you can't, you're right. ❞  
-— Henry Ford
+❝ Talk is cheap. Show me the code. ❞  
+— Linus Torvalds
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

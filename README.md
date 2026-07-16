@@ -42,8 +42,8 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ## 💡 ✨ Quote of the Day
 
-❝ Whether you think you can or think you can't, you're right. ❞  
-— Henry Ford
+❝ Don’t wait. The time will never be just right. ❞  
+— Napoleon Hill
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

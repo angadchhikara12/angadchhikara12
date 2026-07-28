@@ -39,6 +39,13 @@ I began knowing nothing about Python—just a curious kid watching YouTube tutor
 Today, I build cool projects and love messing around with Python to create cool and useful programs.
 
 ---
+## 🎖️ Achievements
+<img width="2000" height="2000" alt="Digital Sticker_Foundations in Generative AI" src="https://github.com/user-attachments/assets/8fb9e979-27c7-499a-91cf-6b3cdd44184e" />
+Completed the course of Ai Fundamentals on 7/28/2026
+Course By: [IBM](github.com/IBM)
+#IBMSkillsBuild #AI #Developer
+
+---
 
 ## 💡 ✨ Quote of the Day
 

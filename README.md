@@ -40,9 +40,9 @@ Today, I build cool projects and love messing around with Python to create cool 
 
 ---
 ## 🎖️ Achievements
-<img width="20" height="20" alt="Digital Sticker_Foundations in Generative AI" src="https://github.com/user-attachments/assets/8fb9e979-27c7-499a-91cf-6b3cdd44184e" />
+<img width="200" height="200" alt="Digital Sticker_Foundations in Generative AI" src="https://github.com/user-attachments/assets/8fb9e979-27c7-499a-91cf-6b3cdd44184e" />
 Completed the course of Ai Fundamentals on 7/28/2026
-Course By: [IBM](https://www.github.com/IBM)
+Course By: [IBM](https://github.com/IBM)
 #IBMSkillsBuild #AI #Developer
 
 ---

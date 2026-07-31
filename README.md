@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ Don’t wait. The time will never be just right. ❞  
-— Napoleon Hill
+❝ The only way to do great work is to love what you do. ❞  
+— Steve Jobs
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

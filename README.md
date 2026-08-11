@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ The only way to do great work is to love what you do. ❞  
-— Steve Jobs
+❝ Whether you think you can or think you can't, you're right. ❞  
+— Henry Ford
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ Whether you think you can or think you can't, you're right. ❞  
-— Henry Ford
+❝ The people who are crazy enough to think they can change the world are the ones who do. ❞  
+— Steve Jobs
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

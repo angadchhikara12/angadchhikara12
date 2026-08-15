@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ Don’t wait. The time will never be just right. ❞  
-— Napoleon Hill
+❝ The best way to predict the future is to create it. ❞  
+— Peter Drucker
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ Don’t wait. The time will never be just right. ❞  
-— Napoleon Hill
+❝ Hard work beats talent when talent doesn’t work hard. ❞  
+— Tim Notke
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

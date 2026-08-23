@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ The only way to do great work is to love what you do. ❞  
-— Steve Jobs
+❝ Talk is cheap. Show me the code. ❞  
+— Linus Torvalds
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

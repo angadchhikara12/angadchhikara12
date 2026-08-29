@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ The people who are crazy enough to think they can change the world are the ones who do. ❞  
-— Steve Jobs
+❝ Don’t wait. The time will never be just right. ❞  
+— Napoleon Hill
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

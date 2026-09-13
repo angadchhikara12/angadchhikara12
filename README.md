@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ The only way to do great work is to love what you do. ❞  
-— Steve Jobs
+❝ The best way to predict the future is to create it. ❞  
+— Peter Drucker
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

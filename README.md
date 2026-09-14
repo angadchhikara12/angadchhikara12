@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ The best way to predict the future is to create it. ❞  
-— Peter Drucker
+❝ Talk is cheap. Show me the code. ❞  
+— Linus Torvalds
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

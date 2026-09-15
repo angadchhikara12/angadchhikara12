@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ Talk is cheap. Show me the code. ❞  
-— Linus Torvalds
+❝ Whether you think you can or think you can't, you're right. ❞  
+— Henry Ford
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

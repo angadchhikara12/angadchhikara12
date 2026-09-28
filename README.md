@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ Talk is cheap. Show me the code. ❞  
-— Linus Torvalds
+❝ Don’t wait. The time will never be just right. ❞  
+— Napoleon Hill
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

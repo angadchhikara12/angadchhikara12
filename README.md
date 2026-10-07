@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ The only way to do great work is to love what you do. ❞  
-— Steve Jobs
+❝ Hard work beats talent when talent doesn’t work hard. ❞  
+— Tim Notke
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  

@@ -52,8 +52,8 @@ Course By: [IBM](https://github.com/IBM)
 
 ## 💡 ✨ Quote of the Day
 
-❝ First, solve the problem. Then, write the code. ❞  
-— John Johnson
+❝ Talk is cheap. Show me the code. ❞  
+— Linus Torvalds
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/angadchhikara12)  
